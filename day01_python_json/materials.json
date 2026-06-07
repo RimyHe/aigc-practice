@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Python 文件处理基础",
+    "direction": "Python 实用能力",
+    "keywords": ["python", "file", "json"],
+    "note": "帮助你理解实验脚本如何读取配置和数据。"
+  },
+  {
+    "title": "CLIP: Learning Transferable Visual Models From Natural Language Supervision",
+    "direction": "多模态基础",
+    "keywords": ["CLIP", "multimodal", "image-text alignment"],
+    "note": "CLIP 是理解图文对齐和文生图条件控制的重要基础。"
+  },
+  {
+    "title": "Stable Diffusion 推理流程入门",
+    "direction": "图像生成算法",
+    "keywords": ["Stable Diffusion", "diffusion", "text-to-image", "latent space"],
+    "note": "理解 prompt 如何经过 text encoder、U-Net 和 VAE 生成图像。"
+  },
+  {
+    "title": "Pandas 表格统计基础",
+    "direction": "实验数据处理",
+    "keywords": ["pandas", "csv", "statistics", "multimodal"],
+    "note": "以后可以用来统计实验结果，比如不同参数下的生成质量。"
+  },
+  {
+    "title": "Diffusion Transformer 简介",
+    "direction": "图像生成算法",
+    "keywords": ["DiT", "Transformer", "diffusion", "image generation"],
+    "note": "DiT 把 Transformer 用到扩散生成里，是当前图像生成模型的重要方向。"
+  }
+]
