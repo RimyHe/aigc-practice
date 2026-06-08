@@ -30,6 +30,7 @@
 
 - `day01_python_json`：Python 读取 JSON，并筛选 AIGC / 多模态相关学习材料。
 - `day02_path_project`：Python 路径处理、脚本结构、模块化和项目入口。
+- `day03_csv_experiment_log`：Python 读写 CSV、AIGC 实验记录和简单统计。
 
 ## 长期覆盖方向
 

@@ -1,0 +1,27 @@
+AIGC 生成实验统计结果
+============================
+总实验数：10
+平均 CLIP 分数：0.306
+平均人工评分：4.11
+
+人工评分最高的实验：
+- run_id：r008
+- model：Image Editing
+- prompt：Turn a sketch of a chair into a realistic product render
+- seed：56
+- guidance_scale：8.5
+- steps：40
+- clip_score：0.342
+- human_rating：4.7
+- notes：best edit quality and realistic material
+
+guidance_scale 最高的实验：
+- run_id：r008
+- guidance_scale：8.5
+
+CLIP 分数大于 0.30 的实验数：6
+
+按模型统计实验数量：
+- Stable Diffusion：5 次
+- DiT：3 次
+- Image Editing：2 次

@@ -1,0 +1,11 @@
+run_id,prompt,model,seed,guidance_scale,steps,clip_score,human_rating,notes
+r001,"A cyberpunk street after rain, neon reflections",Stable Diffusion,42,7.5,30,0.312,4.2,"good color and composition"
+r002,"A watercolor castle on a floating island",Stable Diffusion,123,6.0,25,0.284,3.8,"soft style but weak details"
+r003,"A product photo of a white sneaker on a clean background",Stable Diffusion,77,8.0,35,0.331,4.5,"clean background and strong product focus"
+r004,"A poster of a futuristic city using geometric shapes",DiT,2024,5.5,28,0.298,4.0,"stable layout but less texture"
+r005,"A fantasy forest with glowing plants and mist",DiT,1001,6.5,32,0.319,4.4,"nice lighting and coherent scene"
+r006,"Replace the sky in a landscape photo with sunset clouds",Image Editing,88,7.0,24,0.276,3.6,"edit is visible but boundary is rough"
+r007,"A cat wearing astronaut helmet, studio lighting",Stable Diffusion,314,7.5,30,0.305,4.1,"fun subject and clear object"
+r008,"Turn a sketch of a chair into a realistic product render",Image Editing,56,8.5,40,0.342,4.7,"best edit quality and realistic material"
+r009,"A minimal app icon for a multimodal assistant",DiT,909,4.5,22,0.267,3.5,"simple but not very aligned"
+r010,"A cinematic portrait of a robot scientist",Stable Diffusion,808,7.0,30,0.325,4.3,"good face detail and lighting"
