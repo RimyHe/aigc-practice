@@ -38,6 +38,7 @@
 - `day04_numpy_image_array`：NumPy 数组、shape、dtype、归一化和图像数据直觉。
 - `day05_torch_tensor_autograd`：PyTorch Tensor、requires_grad、autograd 和最小优化过程。
 - `day06_torch_linear_regression_loop`：PyTorch 线性回归、MSE loss、optimizer 和完整训练循环。
+- `day07_torch_dataloader_minibatch`：PyTorch Dataset、DataLoader、mini-batch 和双层训练循环。
 
 ## 阶段规划
 
@@ -54,7 +55,8 @@
 - 图像是 HWC / CHW 数字数组；
 - dtype、归一化、通道；
 - Tensor、autograd、训练循环；
-- 线性回归、loss、optimizer。
+- 线性回归、loss、optimizer；
+- Dataset、DataLoader、mini-batch。
 
 第三阶段：基础深度学习模型
 
