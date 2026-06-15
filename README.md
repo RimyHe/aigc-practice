@@ -41,6 +41,7 @@
 - `day07_torch_dataloader_minibatch`：PyTorch Dataset、DataLoader、mini-batch 和双层训练循环。
 - `day08_torch_softmax_crossentropy`：PyTorch logits、softmax、cross-entropy 和最小多分类训练。
 - `day09_torch_mlp_relu`：PyTorch MLP、隐藏层、ReLU 和非线性分类。
+- `day10_overfitting_regularization`：PyTorch 过拟合、训练集/测试集差距、weight decay 和 dropout。
 
 ## 阶段规划
 
@@ -60,7 +61,8 @@
 - 线性回归、loss、optimizer；
 - Dataset、DataLoader、mini-batch；
 - logits、softmax、cross-entropy、多分类训练；
-- MLP、ReLU、非线性分类边界。
+- MLP、ReLU、非线性分类边界；
+- 过拟合、泛化能力、weight decay 和 dropout。
 
 第三阶段：基础深度学习模型
 
